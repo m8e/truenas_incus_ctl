@@ -1,7 +1,6 @@
 https://forums.truenas.com/t/howto-use-truenas-ctl-a-remote-cli-for-truenas-aka-truenas-incus-ctl/47763
 
 
-https://forums.truenas.com/t/howto-use-truenas-ctl-a-remote-cli-for-truenas-aka-truenas-incus-ctl/47763]
 
 # truenas_incus_ctl
 
