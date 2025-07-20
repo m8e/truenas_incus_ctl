@@ -1,4 +1,8 @@
-(https://forums.truenas.com/t/howto-use-truenas-ctl-a-remote-cli-for-truenas-aka-truenas-incus-ctl/47763)[https://forums.truenas.com/t/howto-use-truenas-ctl-a-remote-cli-for-truenas-aka-truenas-incus-ctl/47763]
+https://forums.truenas.com/t/howto-use-truenas-ctl-a-remote-cli-for-truenas-aka-truenas-incus-ctl/47763
+
+
+https://forums.truenas.com/t/howto-use-truenas-ctl-a-remote-cli-for-truenas-aka-truenas-incus-ctl/47763]
+
 # truenas_incus_ctl
 
 `truenas_incus_ctl` is a tool for administering datasets, snapshots and network shares that are hosted on a TrueNAS server.
